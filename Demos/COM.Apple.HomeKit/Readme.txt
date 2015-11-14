@@ -1,0 +1,1 @@
+获取HomeKit代码请联系MXCHIP.

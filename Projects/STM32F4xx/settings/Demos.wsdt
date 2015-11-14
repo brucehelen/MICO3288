@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+    
+    
+  <CurrentConfigs><Project>Bootloader/MiCOKit-3288</Project><Project>COM.MXCHIP.BASIC/MiCOKit-3288</Project><Project>COM.Apple.HomeKit/MiCOKit-3165</Project><Project>COM.MXCHIP.SPP/MiCOKit-3165</Project><Project>Cloud_RGB_LED/MiCOKit-3288</Project><Project>SiteWhere_Enjoy/MiCOKit-3165</Project><Project>Cloud_Read_Humiture/MiCOKit-3165</Project><Project>Cloud_RGB_Humiture/MiCOKit-3165</Project><Project>MiCOKit_Enjoy/MiCOKit-3165</Project><Project>SiteWhere_RGB_LED/MiCOKit-3165</Project></CurrentConfigs><CurrentProj>COM.MXCHIP.BASIC</CurrentProj><OverviewSelected>0</OverviewSelected></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>222</Column0><Column1>3</Column1><Column2>27</Column2><Column3>0</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+    <Debug-Log><ColumnWidth0>19</ColumnWidth0><ColumnWidth1>1478</ColumnWidth1></Debug-Log><Find-All-Declarations><ColumnWidth0>529</ColumnWidth0><ColumnWidth1>75</ColumnWidth1><ColumnWidth2>908</ColumnWidth2></Find-All-Declarations><Select-Ambiguous-Definitions><ColumnWidth0>529</ColumnWidth0><ColumnWidth1>75</ColumnWidth1><ColumnWidth2>908</ColumnWidth2></Select-Ambiguous-Definitions></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-15490-27807</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws&gt;</ExpandedNode><ExpandedNode>&lt;ws&gt;/COM.MXCHIP.BASIC</ExpandedNode><ExpandedNode>&lt;ws&gt;/COM.MXCHIP.BASIC/Application</ExpandedNode><ExpandedNode>Bootloader</ExpandedNode><ExpandedNode>Bootloader/Board</ExpandedNode><ExpandedNode>Bootloader/Board/MiCOKit-3288</ExpandedNode><ExpandedNode>Bootloader/Bootloader</ExpandedNode><ExpandedNode>Bootloader/Platform</ExpandedNode><ExpandedNode>Bootloader/Platform/MCU</ExpandedNode><ExpandedNode>COM.Apple.HomeKit</ExpandedNode><ExpandedNode>COM.MXCHIP.BASIC</ExpandedNode><ExpandedNode>COM.MXCHIP.BASIC/Application</ExpandedNode><ExpandedNode>Cloud_RGB_LED</ExpandedNode><ExpandedNode>Cloud_RGB_LED/Application</ExpandedNode><ExpandedNode>Cloud_RGB_LED/Application/AppFramework</ExpandedNode><ExpandedNode>Cloud_RGB_LED/Application/User</ExpandedNode><ExpandedNode>Cloud_RGB_LED/Board</ExpandedNode><ExpandedNode>Cloud_RGB_LED/Library</ExpandedNode><ExpandedNode>Cloud_RGB_LED/MICO</ExpandedNode><ExpandedNode>MiCOKit_Enjoy</ExpandedNode><ExpandedNode>MiCOKit_Enjoy/Application</ExpandedNode><ExpandedNode>MiCOKit_Enjoy/Application/User</ExpandedNode><ExpandedNode>SiteWhere_RGB_LED</ExpandedNode><ExpandedNode>SiteWhere_RGB_LED/Application</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-13922-27836</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-3110-23951</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-11898-6653</Identity><TabName>Declarations</TabName><Factory>Find-All-Declarations</Factory><Session/></Tab><Tab><Identity>TabID-26098-13756</Identity><TabName>Ambiguous Definitions</TabName><Factory>Select-Ambiguous-Definitions</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane/><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-046000B8><key>iaridepm.enu1</key></Toolbar-046000B8></Sizes></Row0></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>510</Bottom><Right>272</Right><x>-2</x><y>-2</y><xscreen>225</xscreen><yscreen>228</yscreen><sizeHorzCX>146484</sizeHorzCX><sizeHorzCY>291933</sizeHorzCY><sizeVertCX>178385</sizeVertCX><sizeVertCY>655570</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>226</Bottom><Right>1538</Right><x>-2</x><y>-2</y><xscreen>1540</xscreen><yscreen>228</yscreen><sizeHorzCX>1002604</sizeHorzCX><sizeHorzCY>291933</sizeHorzCY><sizeVertCX>146484</sizeVertCX><sizeVertCY>291933</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
